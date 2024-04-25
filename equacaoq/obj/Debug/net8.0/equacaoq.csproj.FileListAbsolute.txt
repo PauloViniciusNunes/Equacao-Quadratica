@@ -1,0 +1,14 @@
+/home/paulov/Desktop/Projetos/equacaoq/bin/Debug/net8.0/equacaoq
+/home/paulov/Desktop/Projetos/equacaoq/bin/Debug/net8.0/equacaoq.deps.json
+/home/paulov/Desktop/Projetos/equacaoq/bin/Debug/net8.0/equacaoq.runtimeconfig.json
+/home/paulov/Desktop/Projetos/equacaoq/bin/Debug/net8.0/equacaoq.dll
+/home/paulov/Desktop/Projetos/equacaoq/bin/Debug/net8.0/equacaoq.pdb
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.AssemblyInfoInputs.cache
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.AssemblyInfo.cs
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.csproj.CoreCompileInputs.cache
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.dll
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/refint/equacaoq.dll
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.pdb
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/equacaoq.genruntimeconfig.cache
+/home/paulov/Desktop/Projetos/equacaoq/obj/Debug/net8.0/ref/equacaoq.dll
